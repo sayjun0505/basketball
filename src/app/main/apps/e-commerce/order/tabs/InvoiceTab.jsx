@@ -105,7 +105,7 @@ function InvoiceTab(props) {
                 )}
               </div>
 
-              <div className="sellogo.png items-center p-16">
+              <div className="seller flex items-center p-16">
                 <img
                   className="w-80"
                   src="assets/images/logo/logo.png"
