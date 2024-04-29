@@ -69,7 +69,7 @@ function FullScreenReversedConfirmationRequiredPage() {
             <div>our Basketball team</div>
           </div>
           <div className="mt-24 text-lg leading-6 tracking-tight text-gray-400">
-          This app helps to train for all players. They can contact with his
+            This app helps to train for all players. They can contact with his
             coach real-time and evaluate his skills.
           </div>
           <div className="mt-32 flex items-center">
@@ -110,7 +110,7 @@ function FullScreenReversedConfirmationRequiredPage() {
             className="text-md mt-32 font-medium"
             color="text.secondary"
           >
-            <span>Return to</slogo.png
+            <span>Return to</span>
             <Link
               className="text-primary-500 ml-4 hover:underline"
               to="/sign-in"
