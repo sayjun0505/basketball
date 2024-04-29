@@ -12,7 +12,7 @@ function ClassicConfirmationRequiredPage() {
         <div className="mx-auto w-full max-w-320 sm:mx-0 sm:w-320">
           <img className="w-48" src="assets/images/logo/logo.png" alt="logo" />
 
-          <Typography classNam="text-4xl font-extrabold leading-tight tracking-tight">
+          <Typography className="text-4xl font-extrabold leading-tight tracking-tight">
             Confirmation required
           </Typography>
           <Typography className="mt-16">

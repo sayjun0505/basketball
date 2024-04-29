@@ -15,7 +15,7 @@ function FullScreenConfirmationRequiredPage() {
         <div className="mx-auto w-full max-w-320 sm:mx-0 sm:w-320">
           <img className="w-48" src="assets/images/logo/logo.png" alt="logo" />
 
-          <Typography classNamlogo.png text-4xl font-extrabold leading-tight tracking-tight">
+          <Typography className="text-4xl font-extrabold leading-tight tracking-tight">
             Confirmation required
           </Typography>
           <Typography className="mt-16">
@@ -97,7 +97,7 @@ function FullScreenConfirmationRequiredPage() {
             <div>our Basketball team</div>
           </div>
           <div className="mt-24 text-lg leading-6 tracking-tight text-gray-400">
-          This app helps to train for all players. They can contact with his
+            This app helps to train for all players. They can contact with his
             coach real-time and evaluate his skills.
           </div>
           <div className="mt-32 flex items-center">
