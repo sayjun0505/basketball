@@ -22,10 +22,10 @@ const navigationConfig = [
 		children: [
 			{
 				id: 'dashboards.project',
-				title: 'Skills',
+				title: 'Home',
 				type: 'item',
 				icon: 'heroicons-outline:clipboard-check',
-				url: '/dashboards/project'
+				url: '/dashboards/home'
 			},
 			{
 				id: 'dashboards.analytics',

@@ -148,7 +148,7 @@
     "scripts": {
         "start": "npm run dev",
         "dev": "vite",
-        "build": "NODE_OPTIONS=--max-old-space-size=4096 vite build",
+        "build": "vite build",
         "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
         "preview": "vite preview",
         "analyze": "react-app-rewired build && source-map-explorer 'build/static/js/*.js' --html analyze-result.html",

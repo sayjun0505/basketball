@@ -191,8 +191,8 @@ function JwtAuthProvider(props) {
   const signUp = useCallback((data) => {
     const apiUrl = serverconfig.signUpUrl;
     return handleRequest(
-      // config.signUpUrl,
-      apiUrl,
+      config.signUpUrl,
+      // apiUrl,
       data,
       handleSignUpSuccess,
       handleSignUpFailure

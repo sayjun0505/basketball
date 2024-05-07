@@ -25688,19 +25688,19 @@
             "detail": "You can show some detailed information about this widget in here."
           },
           "overdue": {
-            "title": "Overdue",
+            "title": "Players",
             "data": {
-              "name": "Tasks",
-              "count": 4,
+              "name": "members",
+              "count": 14,
               "extra": {
-                "name": "Yesterday's overdue",
+                "name": "Yesterday's new",
                 "count": 2
               }
             },
             "detail": "You can show some detailed information about this widget in here."
           },
           "issues": {
-            "title": "Issues",
+            "title": "Events",
             "data": {
               "name": "Open",
               "count": 32,
@@ -25712,9 +25712,9 @@
             "detail": "You can show some detailed information about this widget in here."
           },
           "features": {
-            "title": "Features",
+            "title": "Notifications",
             "data": {
-              "name": "Proposals",
+              "name": "Alerts",
               "count": 42,
               "extra": {
                 "name": "Implemented",
