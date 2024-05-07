@@ -1,4 +1,4 @@
-const User = require('../models/User');
+const User = require('/models/User');
 const { v4: uuidv4 } = require('uuid');
 const jwt = require('jsonwebtoken');
 // const jwt = require('jsonwebtoken');
