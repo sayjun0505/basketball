@@ -1,6 +1,6 @@
 // const User = require('models/User');
 const path = require('path');
-const User = require(path.join(__dirname, '..', 'models', 'User'));
+const User = require(path.join(__dirname, '..', 'models', 'user'));
 const { v4: uuidv4 } = require('uuid');
 const jwt = require('jsonwebtoken');
 // const jwt = require('jsonwebtoken');
