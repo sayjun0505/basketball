@@ -1,0 +1,1 @@
+import{c8 as t,aX as a,bY as r}from"./index-cy1M6gwN.js";var e={},u=a;Object.defineProperty(e,"__esModule",{value:!0});var i=e.default=void 0,o=u(t()),d=r;i=e.default=(0,o.default)((0,d.jsx)("path",{d:"M3 17.25V21h3.75L17.81 9.94l-3.75-3.75zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 0 0-1.41 0l-1.83 1.83 3.75 3.75z"}),"Edit");export{i as d};

@@ -1,0 +1,1 @@
+import{c8 as r,aX as a,bY as t}from"./index-cy1M6gwN.js";var e={},u=a;Object.defineProperty(e,"__esModule",{value:!0});var o=e.default=void 0,l=u(r()),i=t;o=e.default=(0,l.default)((0,i.jsx)("path",{d:"M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"}),"Star");export{o as d};

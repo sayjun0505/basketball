@@ -1,0 +1,1 @@
+import{ay as r,az as a,ag as t}from"./index-3voNJrtd.js";var e={},o=a;Object.defineProperty(e,"__esModule",{value:!0});var u=e.default=void 0,d=o(r()),i=t;u=e.default=(0,d.default)((0,i.jsx)("path",{d:"M7.41 15.41 12 10.83l4.59 4.58L18 14l-6-6-6 6z"}),"KeyboardArrowUp");export{u as d};
